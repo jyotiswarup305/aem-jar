@@ -1,0 +1,1 @@
+mvn archetype:generate -B -DarchetypeGroupId=com.adobe.aem -DarchetypeArtifactId=aem-project-archetype -DarchetypeVersion=41 -DaemVersion=6.5.15 -DartifactId=aem-web -DappTitle="Aem Web" -DappId="aem-web" -DgroupId="com.web.aem" -DincludeDispatcherConfig=n -DsingleCountry=n
